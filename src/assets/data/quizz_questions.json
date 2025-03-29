@@ -1,0 +1,167 @@
+{
+  "title": "Qual Dinossauro Você Seria?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual sua atividade favorita em um dia livre?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Explorar novos lugares e descobrir segredos escondidos.",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Correr livremente em campos abertos, sentindo o vento no rosto.",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Caçar e dominar o território, mostrando quem manda.",
+          "alias": "D"
+        },
+        {
+          "id": 4,
+          "name": "Relaxar em um local tranquilo, apreciando a natureza ao redor.",
+          "alias": "C"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual sua principal característica?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Força e resistência.",
+          "alias": "C"
+        },
+        {
+          "id": 2,
+          "name": "Velocidade e agilidade.",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Curiosidade e inteligência.",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Imponência e ferocidade.",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual seu habitat ideal?",
+      "options": [
+        {
+          "id": 1,
+          "name": " Planícies vastas e ensolaradas.",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Florestas densas e misteriosas.",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Lagos e rios tranquilos.",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Selvas tropicais e exuberantes.",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual sua reação ao perigo?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Analiso a situação e planejo uma fuga estratégica.",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Uso minha força para me defender e proteger meu território.",
+          "alias": "C"
+        },
+        {
+          "id": 3,
+          "name": "Ataco com ferocidade, mostrando quem é o predador dominante.",
+          "alias": "D"
+        },
+        {
+          "id": 4,
+          "name": "Corro o mais rápido possível para longe do perigo.",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual sua maior qualidade?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Liderança e poder de intimidação.",
+          "alias": "D"
+        },
+        {
+          "id": 2,
+          "name": "Força e resistência inabaláveis.",
+          "alias": "C"
+        },
+        {
+          "id": 3,
+          "name": "Velocidade e agilidade incomparáveis.",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Inteligência e capacidade de adaptação.",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Qual seu maior sonho?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Viver em paz e harmonia com a natureza, em um local tranquilo e seguro.",
+          "alias": "C"
+        },
+        {
+          "id": 2,
+          "name": "Correr livremente sem limites, sentindo a adrenalina da velocidade.",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Descobrir os segredos e explorar todos os cantos da Terra.",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Conquistar o mundo e ser temido por todos.",
+          "alias": "D"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você seria um Velociraptor! Inteligente, ágil e curioso, você adora explorar novos lugares e descobrir segredos.",
+    "B": "Você seria um Gallimimus! Veloz e ágil, você adora correr livremente e sentir o vento no rosto.",
+    "C": "Você seria um Triceratops! Forte e resistente, você prefere relaxar em um local tranquilo e apreciar a natureza.",
+    "D": "Você seria um Tiranossauro Rex! Imponente e feroz, você adora caçar e dominar o território, mostrando quem manda."
+  }
+}
