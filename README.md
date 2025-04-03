@@ -1,27 +1,41 @@
-# ProjectBuzzfeed
+# 🦖 ProjectBuzzfeed - Qual Dinossauro Você Seria? 🦕
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
+## 🚀 Descrição do Projeto
+Este é um divertido projeto de estudo Angular que cria um teste interativo no estilo do BuzzFeed para descobrir qual dinossauro você seria! Responda a uma série de perguntas divertidas e descubra seu dinossauro interior. Rawr!!
 
-## Development server
+## ⚙️ Configuração do Projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1.  **Clone o repositório:**
 
-## Code scaffolding
+    ```bash
+    git clone https://github.com/DudaSheep/game-db-api-springboot.git
+    ```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+2.  **Navegue até o diretório do projeto:**
 
-## Build
+    ```bash
+    cd game-db-api-springboot
+    ```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+3.  **Execute a aplicação:**
 
-## Running unit tests
+    ```bash
+    npm install
+    ng serve
+    ```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+4.  **Acesse a documentação do Swagger:**
 
-## Running end-to-end tests
+    Abra o navegador e acesse `http://localhost:4200/`.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## ️✨ Tecnologias Utilizadas
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- ▶️ Angular  
+- ▶️ HTML 
+- ▶️ CSS  
+- ▶️ TypeScript 
+
+## ️ Imagem do Projeto
+
+![PaginaInicial](/src/assets/imgs/img1.PNG)
