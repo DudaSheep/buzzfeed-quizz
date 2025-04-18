@@ -24,7 +24,7 @@ Este é um divertido projeto de estudo Angular que cria um teste interativo no e
     ng serve
     ```
 
-4.  **Acesse a documentação do Swagger:**
+4.  **Acesse o Site:**
 
     Abra o navegador e acesse `http://localhost:4200/`.
 
